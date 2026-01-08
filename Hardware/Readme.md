@@ -6,7 +6,8 @@ The schematics and PCB gerber files are located in this directory.
 - Green means bottom silk layer
 - Gray is solder mask
 
-<img width="612" height="371" alt="Screenshot 2026-01-08 091315" src="https://github.com/user-attachments/assets/00e34bbf-22aa-43e5-95d8-af865cef5b93" />
+<img width="1365" height="586" alt="image" src="https://github.com/user-attachments/assets/eea819b5-903f-41e5-a650-4da1664a0aee" />
+
 
 https://github.com/user-attachments/assets/9e0fa189-9529-4978-af45-c62185b296a2
 
