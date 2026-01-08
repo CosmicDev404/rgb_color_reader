@@ -29,5 +29,7 @@ Following components are used to create this project.
 - PCB(gerber included in hardware directory)
 - MicroUSB female
 - 3x6*6*8 push buttons
+- 2x12 2.54mm Female Headers + 1x2 2.54mm Female Headers
 
-<img width="474" height="303" alt="Screenshot 2026-01-08 091328" src="https://github.com/user-attachments/assets/9c987119-f095-4c58-807b-5d52cedb1680" />
+<img width="479" height="464" alt="Screenshot 2026-01-08 134518" src="https://github.com/user-attachments/assets/10226011-3d3e-4f2c-97da-be733eabfe1b" />
+
