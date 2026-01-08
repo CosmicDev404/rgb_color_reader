@@ -19,3 +19,4 @@ The fun part is that all the components used are super ubiquitous and affordable
 https://github.com/user-attachments/assets/6e2b36a0-62c5-49fb-8e82-23192e9eb4c3
 ![WhatsApp Image 2026-01-04 at 19 53 35_cdc5ee56](https://github.com/user-attachments/assets/c45b4d5e-eefc-4126-b578-34caf9d89753)
 ![WhatsApp Image 2026-01-04 at 19 53 35_4ba9d94c](https://github.com/user-attachments/assets/511b5687-d44e-49ad-8b1d-3979784e0fc6)
+<img width="474" height="303" alt="Screenshot 2026-01-08 091328" src="https://github.com/user-attachments/assets/9c987119-f095-4c58-807b-5d52cedb1680" />
