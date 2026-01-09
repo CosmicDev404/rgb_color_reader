@@ -28,9 +28,8 @@ https://github.com/user-attachments/assets/9e0fa189-9529-4978-af45-c62185b296a2
 
 <img width="558" height="468" alt="Screenshot 2026-01-08 103309" src="https://github.com/user-attachments/assets/23da2994-4bb8-4442-bfd3-038f15da9e31" />
 
-🔹STEP viewer:
+🔹3D render screenshot
 
-https://cad-viewer.com/users/432
 <img width="954" height="546" alt="image" src="https://github.com/user-attachments/assets/f33496e9-e996-4cd3-af99-be82157fe6a0" />
 
 
