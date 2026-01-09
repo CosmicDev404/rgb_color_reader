@@ -1,4 +1,4 @@
-# hardware
+# hardware/assets
 🔹 The schematics and PCB gerber files are located in this directory.
 
 - Yellow means top silk layer
