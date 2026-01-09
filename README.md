@@ -38,5 +38,6 @@ Commercial color sensors are expensive and opaque.
 This project explores how much can be achieved with basic components, calibration, and software logic.
 The fun part is that all the components used are super ubiquitous and affordable, so anyone can make it.
 https://github.com/user-attachments/assets/6e2b36a0-62c5-49fb-8e82-23192e9eb4c3
+
 ![WhatsApp Image 2026-01-04 at 19 53 35_cdc5ee56](https://github.com/user-attachments/assets/c45b4d5e-eefc-4126-b578-34caf9d89753)
 
