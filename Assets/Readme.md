@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/9e0fa189-9529-4978-af45-c62185b296a2
 - Resistors(10kΩ, 2x100Ω & 150Ω)
 - An RGB LED with common cathode
 - 0.96 inch I2C OLED display
-- PCB(gerber included in hardware directory)
+- PCB(gerbers included)
 - MicroUSB female 5 pin
 - 3x6*6*8 push buttons
 - 2x12 2.54mm Female Headers + 1x2 2.54mm Female Headers
